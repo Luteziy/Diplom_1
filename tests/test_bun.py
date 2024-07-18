@@ -1,6 +1,6 @@
 import pytest
 import allure
-from practicum.bun import Bun
+from praktikum.bun import Bun
 from data import Data, Data_0
 
 class TestBun:

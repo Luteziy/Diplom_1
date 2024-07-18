@@ -1,7 +1,7 @@
 import pytest
 import allure
-from practicum.bun import Bun
-from practicum.burger import Burger
+from praktikum.bun import Bun
+from praktikum.burger import Burger
 from data import Data, Data_0
 
 class TestBurger:

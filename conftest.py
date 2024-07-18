@@ -1,7 +1,7 @@
 import pytest
 from data import Data, Data_0
 from unittest.mock import Mock
-from practicum.database import Database
+from praktikum.database import Database
 
 @pytest.fixture
 def mock_bun():
